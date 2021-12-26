@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 
 public class TestMapToList {
 	public static void main(String[] args) {
-		
+		System.out.println(" added pull msg");
 		Map<Integer,String> map = new HashMap<>();
 		
 		map.put(1, "Biswajeet");
